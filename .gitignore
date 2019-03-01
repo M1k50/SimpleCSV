@@ -39,3 +39,6 @@ Thumbs.db
 #dotCover
 *.dotCover
 /src/PerformanceTest/worldcitiespop.txt
+
+#Visual Studio Folder
+.vs/
